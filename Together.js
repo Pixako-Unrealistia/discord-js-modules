@@ -1,5 +1,8 @@
 var { MessageEmbed } = require("discord.js");
 
+#Requires "discord-together" to be imported beforehand.
+
+
 
 module.exports = {
   name: "together",
